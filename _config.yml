@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "woorek's noisy brain"
+title                    : "woorek's scratch"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : # "woorek"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "jerry woorek"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Man who thinks"
+  bio              : "Gooner"
   location         : "KR"
   email            :
   links:
